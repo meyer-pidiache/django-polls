@@ -1,1 +1,1 @@
-# django-login
+# django-polls
