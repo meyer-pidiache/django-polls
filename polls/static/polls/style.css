@@ -1,0 +1,9 @@
+li a {
+    color: darkgreen;
+    background-color: aliceblue;
+}
+
+body {
+    background: white url("images/background.jpg");
+    background-size: 200px;
+}
